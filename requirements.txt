@@ -4,4 +4,6 @@ matplotlib
 scipy
 lifelines
 reliability
+scikit-learn
+xgboost
 jupyter
